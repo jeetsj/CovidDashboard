@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8017e37d0eab115d5af6c2bbfda9fecf",
+    "email": "test@gmail.com",
+    "password": "psw"
+  },
+  {
+    "id": "863cb43b973e07dc926276de5ae8ae5d",
+    "email": "hello@example.com",
+    "password": "password"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "u_id": "8017e37d0eab115d5af6c2bbfda9fecf",
+    "sname": "Fever",
+    "date": "2021-03-20",
+    "time": "12:15",
+    "severity": "Mild",
+    "summary": "Body temp 212 F"
+  },
+  {
+    "id": "ff97f00e567f533111fee4e1862cb408",
+    "u_id": "8017e37d0eab115d5af6c2bbfda9fecf",
+    "sname": "Body Ache",
+    "date": "2021-03-20",
+    "time": "12:15",
+    "summary": "Body Ache",
+    "severity": "Very High"
+  },
+  {
+    "id": "ff97f00e567f533111fee4e1862cb408",
+    "u_id": "8017e37d0eab115d5af6c2bbfda9fecf",
+    "sname": "Shortness of Breath",
+    "date": "2021-03-20",
+    "time": "23:31",
+    "summary": "SpO2 level reduced",
+    "severity": "Very High"
+  }
+]

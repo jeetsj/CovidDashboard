@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a9a2af9b7a3257b6d7e2c20e7186d968",
+    "u_id": "8017e37d0eab115d5af6c2bbfda9fecf",
+    "sname": "BBQ Nation",
+    "date": "2021-03-30",
+    "time": "15:33",
+    "cdetail": "Uber",
+    "summary": "Went for order pickup"
+  },
+  {
+    "id": "a9a2af9b7a3257b6d7e2c20e7186d968",
+    "u_id": "8017e37d0eab115d5af6c2bbfda9fecf",
+    "sname": "Rasika",
+    "date": "2021-04-10",
+    "time": "18:00",
+    "cdetail": "Lyft",
+    "summary": "Dine In Dinner"
+  },
+  {
+    "id": "a9a2af9b7a3257b6d7e2c20e7186d968",
+    "u_id": "8017e37d0eab115d5af6c2bbfda9fecf",
+    "sname": "New York",
+    "date": "2021-04-15",
+    "time": "10:00",
+    "cdetail": "Bus",
+    "summary": "Travel regarding work"
+  }
+  
+]
